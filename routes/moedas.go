@@ -7,7 +7,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/Loukis-13/currency-API-GO/internal/currencies"
+	"github.com/Loukis-13/currency-API-GO/currencies"
 
 	"github.com/gorilla/mux"
 )
