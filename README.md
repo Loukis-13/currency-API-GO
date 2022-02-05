@@ -1,4 +1,4 @@
-# GFT Estudo API - Conversão monetária
+# API Conversão monetária
 
 API para realizar trocas entre moedas  
 
